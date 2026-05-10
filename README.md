@@ -5,7 +5,7 @@ O projeto **Estrelas do Amanhã** é uma página de matrícula escolar infantil 
 ---
 
 ##  Link do Projeto
- **[Clique aqui para ver o site no ar](https://jftigre.github.io/FormularioDeMatricula/FormularioDeMatricula/)**
+<a href="https://jftigre.github.io/FormularioDeMatricula/FormularioDeMatricula/" target="_blank">**[Clique aqui para ver o site no ar]**</a>
 
 ---
 
